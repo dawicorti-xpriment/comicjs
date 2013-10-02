@@ -1,0 +1,31 @@
+{
+  "name": "comicjs",
+  "version": "0.0.0",
+  "description": "An animated comic reader in HTML5 Canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dawicorti/comicjs.git"
+  },
+  "keywords": [
+    "comic",
+    "canvas",
+    "comics",
+    "reader"
+  ],
+  "author": "David Corticchiato",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dawicorti/comicjs/issues"
+  },
+  "dependencies": {
+    "express": "~3.4.0",
+    "jade": "~0.35.0",
+    "browserify": "~2.33.1",
+    "bower": "~1.2.7",
+    "less": "~1.4.2"
+  }
+}
